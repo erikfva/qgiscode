@@ -21,4 +21,4 @@ set VSI_CACHE_SIZE=1000000
 set QT_PLUGIN_PATH=%QGIS%\apps\qgis\qtplugins;%QGIS%\apps\qt4\plugins
 set PYTHONPATH=%QGIS%\apps\qgis\python;%PYTHONPATH%
 REM "%QGIS%"\bin\python.exe %*
-python test1.py
+python test2.py
