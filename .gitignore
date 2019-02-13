@@ -102,3 +102,7 @@ ENV/
 *.pdf
 *.zip
 *.qgs~
+
+.idea
+.vscode
+hidrosanit
